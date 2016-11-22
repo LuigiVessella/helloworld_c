@@ -22,7 +22,7 @@
 int main()
 {
   /* printf() permette di stampare a video */
-  printf("Hello,")";
+  printf("Hello, ");
   printf("World! \n");
   /* restituisce 0 al sistema operativo e termina.
    * 0 significa tutto OK */
