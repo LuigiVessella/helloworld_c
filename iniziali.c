@@ -23,5 +23,5 @@ int main(){
 
 
 
-return 0return 0;;
+return 0return 0;
 }
