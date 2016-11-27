@@ -6,22 +6,8 @@
 
 int main(){
 
-   printf("INT_MIN e': %d ", INT_MIN);
-   printf("\n");
-   printf("INT_MAX e': %d", INT_MAX);
-   printf("\n");
-  
+   printf("INT_MIN e': %d ", INT_MIN"\n");
+   printf("INT_MAX e': %d", INT_MAX"\n");
    
- 
-
-
-
-
-
-
-
-
-
-
   return 0;
 }
