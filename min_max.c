@@ -6,8 +6,8 @@
 
 int main(){
 
-   printf("INT_MIN e': %d ", INT_MIN"\n");
-   printf("INT_MAX e': %d", INT_MAX"\n");
+   printf("INT_MIN e': %d\n", INT_MIN);
+   printf("INT_MAX e': %d\n", INT_MAX);
    
   return 0;
 }
