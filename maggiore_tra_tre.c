@@ -14,6 +14,7 @@ if (a==b && b==c)
 {
     printf("I tre numeri sono uguali\n");
 }
+
 if (b>max)
 {
     max=b;
@@ -29,7 +30,7 @@ if (b<min)
 {
     min=b;
 }
-if (c<b)
+if (c<min)
 {
     min=c;
 }
